@@ -6,9 +6,9 @@ Computer Science Student | Software Engineer
 🌟 [Portfolio](https://www.joatansampaio.com) | 📫 [Email](mailto:joatansampaio@live.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/joatansampaio) 
 
 👨‍💻 About Me
-- 🎓 Computer Science student passionate about coding, algorithms, and problem-solving.
-- 💼 Seeking opportunities in the IT industry as a entry-level sotware engineer.
-- 🌱 Constantly learning and staying updated with the latest technologies.
+- 🎓 Passionate about coding, algorithms, and problem-solving.
+- 💼 Full Stack Developer
+- 🌱 Constantly learning.
 
 💼 Experience
 
@@ -18,14 +18,8 @@ Computer Science Student | Software Engineer
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joatansampaio&hide_progress=false)
 
 🛠️ Skills
-- **Languages**: Java, Python, JavaScript, PHP, C++
-- **Frameworks**: React, Node.js, Tailwind, Spring Boot
-- **Tools**: Git, VS Code, IntelliJ IDEA
-- **Databases**: PostgreSQL, MySQL
-
-🌱 Currently Learning
-- Full-Stack Development
-- Cloud Computing with AWS
+- **Languages**: C#, TypeScript, T-SQL, Java
+- **Frameworks**: Vue, .Net Core
 
 👨‍🎓 Education
 - 🎓 Bachelor of Science in Computer Science, [Metropolitan State University](https://www.metrostate.edu) (Expected 2026.2)
