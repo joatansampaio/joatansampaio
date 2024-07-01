@@ -17,13 +17,13 @@ Computer Science Student | Software Engineer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joatansampaio&hide_progress=false)
 
-🛠️ Skills
-- **Languages**: C#, TypeScript, T-SQL, Java
-- **Frameworks**: Vue, .Net Core
+🛠️ Tech Stack
+- C#, ASP.Net, .Net, TypeScript, Vue, Vuetify, SQL Server
+- **Experience with:** Akka.NET, Wolverine, Rabbit MQ, Handlebars, NPoco, EF Core and much more. 
 
 👨‍🎓 Education
 - 🎓 Bachelor of Science in Computer Science, [Metropolitan State University](https://www.metrostate.edu) (Expected 2026.2)
-- 🎓 Associate of Science in Computer Science, [Century College](https://www.century.edu) (Expected 2023.2)
+- 🎓 Associate of Science in Computer Science, [Century College](https://www.century.edu) (2023)
 - 🎓 Coursework in Computer Information Systems, B.S, [Estácio University](https://www.estacio.br) (2012-2015)  
 
 🎯 Goals
